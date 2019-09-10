@@ -1,0 +1,10 @@
+{
+  "carouselEndpoint": "movie/carousel",
+  "rowContentEndpoint": [
+    "movie/rowContent1",
+    "movie/rowContent2",
+    "movie/rowContent3",
+    "movie/rowContent4",
+    "movie/rowContent5"
+  ]
+}

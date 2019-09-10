@@ -1,0 +1,10 @@
+{
+  "carouselEndpoint": "home/carousel",
+  "rowContentEndpoint": [
+    "home/rowContent1",
+    "home/rowContent2",
+    "home/rowContent3",
+    "home/rowContent4",
+    "home/rowContent5"
+  ]
+}

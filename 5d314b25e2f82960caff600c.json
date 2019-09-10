@@ -1,0 +1,35 @@
+{
+  "tileType": "type1",
+  "tid": "5d259df9e2f82960caf54b2e",
+  "title": "Saand Ki Aankh",
+  "poster": "http://static.cloudwalker.tv/images/tiles/1c0c844e7a17286480225219098fa655/SaandKiAankh_710x400.webp",
+  "portrait": "http://static.cloudwalker.tv/images/tiles/1c0c844e7a17286480225219098fa655/SaandKiAankh_600x800.webp",
+  "background": "http://static.cloudwalker.tv/images/tiles/1c0c844e7a17286480225219098fa655/SaandKiAankh_1920x1080.webp",
+  "rating": 0,
+  "runtime": "01:23",
+  "startTime": 0,
+  "startIndex": 0,
+  "target": [
+    "veJZPsd7iN0"
+  ],
+  "type": "CWYT_VIDEO",
+  "useAlternate": false,
+  "alternateUrl": "http://cygnus.androidapksfree.com/hulk/com.google.android.youtube_v11.23.56-112356130_Android-4.1.apk",
+  "playstoreUrl": "https://play.google.com/store/apps/details?id=com.google.android.youtube",
+  "package": "com.google.android.youtube",
+  "detailPage": true,
+  "source": "Youtube",
+  "genre": [
+    "Drama"
+  ],
+  "year": "2019",
+  "director": [
+    "Tushar Hiranandani"
+  ],
+  "cast": [
+    "Pawan Chopra",
+    "Taapsee Pannu",
+    "Bhumi Pednekar"
+  ],
+  "synopsis": " The film is a biopic based on the life of the oldest sharpshooters, Chandro Tomar and her sister-in-law Prakashi Tomar."
+}

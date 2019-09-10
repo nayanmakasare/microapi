@@ -1,0 +1,10 @@
+{
+  "carouselEndpoint": "more/carousel",
+  "rowContentEndpoint": [
+    "more/rowContent1",
+    "more/rowContent2",
+    "more/rowContent3",
+    "more/rowContent4",
+    "more/rowContent5"
+  ]
+}

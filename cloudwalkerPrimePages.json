@@ -1,0 +1,18 @@
+[
+  {
+    "rowName": "Home",
+    "rowEndpoint": "home"
+  },
+  {
+    "rowName": "Movies",
+    "rowEndpoint": "movie"
+  },
+  {
+    "rowName": "Tv Shows",
+    "rowEndpoint": "tvshows"
+  },
+  {
+    "rowName": "More",
+    "rowEndpoint": "more"
+  }
+]

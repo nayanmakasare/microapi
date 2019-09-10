@@ -1,0 +1,78 @@
+{
+  "rowName": "New Series",
+  "shape": "portrait",
+  "movieTiles": [
+    {
+      "movieTitle": "Content 2",
+      "poster": "http://static.cloudwalker.tv/images/tiles/1c0c844e7a17286480225219098fa655/SaandKiAankh_710x400.webp",
+      "portrait": "http://static.cloudwalker.tv/images/tiles/1c0c844e7a17286480225219098fa655/SaandKiAankh_600x800.webp",
+      "movieId": "5d314b25e2f82960caff600c",
+      "isDetailPage" : true,
+      "target": "Hr9mkNYL12M",
+      "packageName": "com.google.android.youtube.tv"
+    },
+    {
+      "movieTitle": "Content 1",
+      "portrait": "http://static.cloudwalker.tv/images/tiles/6ac18c1bb1b77f6078eeb91c28008edf/TopGunMaverick_710x400.webp",
+      "poster": "http://static.cloudwalker.tv/images/tiles/6ac18c1bb1b77f6078eeb91c28008edf/TopGunMaverick_600x800.webp",
+      "movieId": "5d314b25e2f82960caff600c",
+      "isDetailPage" : false,
+      "target": "Hr9mkNYL12M",
+      "packageName": "com.google.android.youtube.tv"
+    },
+    {
+      "movieTitle": "Content 2",
+      "poster": "http://static.cloudwalker.tv/images/tiles/1c0c844e7a17286480225219098fa655/SaandKiAankh_710x400.webp",
+      "portrait": "http://static.cloudwalker.tv/images/tiles/1c0c844e7a17286480225219098fa655/SaandKiAankh_600x800.webp",
+      "movieId": "5d314b25e2f82960caff600c",
+      "isDetailPage" : true,
+      "target": "Hr9mkNYL12M",
+      "packageName": "com.google.android.youtube.tv"
+    },
+    {
+      "movieTitle": "Content 1",
+      "portrait": "http://static.cloudwalker.tv/images/tiles/6ac18c1bb1b77f6078eeb91c28008edf/TopGunMaverick_710x400.webp",
+      "poster": "http://static.cloudwalker.tv/images/tiles/6ac18c1bb1b77f6078eeb91c28008edf/TopGunMaverick_600x800.webp",
+      "movieId": "5d314b25e2f82960caff600c",
+      "isDetailPage" : false,
+      "target": "Hr9mkNYL12M",
+      "packageName": "com.google.android.youtube.tv"
+    },
+    {
+      "movieTitle": "Content 2",
+      "poster": "http://static.cloudwalker.tv/images/tiles/1c0c844e7a17286480225219098fa655/SaandKiAankh_710x400.webp",
+      "portrait": "http://static.cloudwalker.tv/images/tiles/1c0c844e7a17286480225219098fa655/SaandKiAankh_600x800.webp",
+      "movieId": "5d314b25e2f82960caff600c",
+      "isDetailPage" : true,
+      "target": "Hr9mkNYL12M",
+      "packageName": "com.google.android.youtube.tv"
+    },
+    {
+      "movieTitle": "Content 1",
+      "portrait": "http://static.cloudwalker.tv/images/tiles/6ac18c1bb1b77f6078eeb91c28008edf/TopGunMaverick_710x400.webp",
+      "poster": "http://static.cloudwalker.tv/images/tiles/6ac18c1bb1b77f6078eeb91c28008edf/TopGunMaverick_600x800.webp",
+      "movieId": "5d314b25e2f82960caff600c",
+      "isDetailPage" : false,
+      "target": "Hr9mkNYL12M",
+      "packageName": "com.google.android.youtube.tv"
+    },
+    {
+      "movieTitle": "Content 2",
+      "poster": "http://static.cloudwalker.tv/images/tiles/1c0c844e7a17286480225219098fa655/SaandKiAankh_710x400.webp",
+      "portrait": "http://static.cloudwalker.tv/images/tiles/1c0c844e7a17286480225219098fa655/SaandKiAankh_600x800.webp",
+      "movieId": "5d314b25e2f82960caff600c",
+      "isDetailPage" : true,
+      "target": "Hr9mkNYL12M",
+      "packageName": "com.google.android.youtube.tv"
+    },
+    {
+      "movieTitle": "Content 1",
+      "portrait": "http://static.cloudwalker.tv/images/tiles/6ac18c1bb1b77f6078eeb91c28008edf/TopGunMaverick_710x400.webp",
+      "poster": "http://static.cloudwalker.tv/images/tiles/6ac18c1bb1b77f6078eeb91c28008edf/TopGunMaverick_600x800.webp",
+      "movieId": "5d314b25e2f82960caff600c",
+      "isDetailPage" : false,
+      "target": "Hr9mkNYL12M",
+      "packageName": "com.google.android.youtube.tv"
+    }
+  ]
+}

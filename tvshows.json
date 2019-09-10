@@ -1,0 +1,10 @@
+{
+  "carouselEndpoint": "tvshows/carousel",
+  "rowContentEndpoint": [
+    "tvshows/rowContent1",
+    "tvshows/rowContent2",
+    "tvshows/rowContent3",
+    "tvshows/rowContent4",
+    "tvshows/rowContent5"
+  ]
+}
